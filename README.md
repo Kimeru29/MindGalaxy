@@ -1,0 +1,2 @@
+# MindGalaxy
+My obsidian vault
