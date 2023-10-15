@@ -19,11 +19,9 @@
 ## 1️⃣ Basic Variable Declaration
 
 In Rust, variables are defined using the `let` keyword.
-
-rustCopy code
-
-`let bunnies = 2;`
-
+```rust
+let bunnies = 2;`
+```
 ---
 
 ## 2️⃣ Type Inference & Annotation
@@ -31,34 +29,28 @@ rustCopy code
 ### 📚 Type Inference
 
 Rust can automatically infer the type of the variable based on its value, similar to `var` in C#. However, Rust's type inference is more stringent.
-
-rustCopy code
-
-`let bunnies = 2; // Inferred as i32`
+```rust
+let bunnies = 2; // Inferred as i32`
+```
 
 ### 🏷️ Type Annotation
 
 You can explicitly define the type of a variable like this:
-
-rustCopy code
-
-`let bunnies: i32 = 2;`
-
+```rust
+let bunnies: i32 = 2;`
+```
 ---
 
 ## 3️⃣ Multiple Variables
 
 You can declare and assign multiple variables in a single line:
-
-rustCopy code
-
-`let (bunnies, carrots) = (8, 50);`
-
+```rust
+let (bunnies, carrots) = (8, 50);`
+```
 With type annotation:
-
-rustCopy code
-
-`let (bunnies: i32, carrots: i32) = (8, 50);`
+```rust
+let (bunnies: i32, carrots: i32) = (8, 50);`
+```
 
 ---
 
@@ -74,20 +66,17 @@ rustCopy code
 
 If you try to modify an immutable variable, the compiler will throw an error.
 
-rustCopy code
-
-`let bunnies = 2; bunnies = 4; // ❌ Error`
-
+```rust
+let bunnies = 2; bunnies = 4; // ❌ Error`
+```
 ---
 
 ## 5️⃣ Mutable Variables
 
 Use the `mut` keyword to declare a variable as mutable.
-
-rustCopy code
-
-`let mut bunnies = 32; bunnies = 2; // ✅ No error`
-
+```rust
+let mut bunnies = 32; bunnies = 2; // ✅ No error`
+```
 ---
 
 ## 6️⃣ Constants
@@ -104,7 +93,6 @@ rustCopy code
 2. **Mathematical Values**: Like π, where the value is fixed.
 
 **Example**
-
-rustCopy code
-
-`const WARP_FACTOR: f64 = 9.9;`
+```rust
+const WARP_FACTOR: f64 = 9.9;`
+```
