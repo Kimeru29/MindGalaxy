@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9477d7e4aa508952",
+        "id": "3078d871c9984d43",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd919153f82d533",
+            "id": "5406acdd0b61c4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Oct 14 23.md",
-                "mode": "source",
+                "file": "Knowledge/Rust/🦀 Rust Variables.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Oct 14 23.md",
+                "file": "Knowledge/Rust/🦀 Rust Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Oct 14 23.md",
+                "file": "Knowledge/Rust/🦀 Rust Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Oct 14 23.md"
+                "file": "Knowledge/Rust/🦀 Rust Variables.md"
               }
             }
           },
@@ -165,8 +165,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cd919153f82d533",
+  "active": "5406acdd0b61c4af",
   "lastOpenFiles": [
+    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
+    "Knowledge/Rust/🦀 Rust Variable Types.md",
+    "Knowledge/Rust/🦀 Rust Variables.md",
+    "Rust Variables.md",
+    "Daily/Oct 14 23.md",
     "MindGalaxy/Images/Pasted image 20230416144426.png",
     "MindGalaxy/Images",
     "MindGalaxy/Inbox/Types of numbers.md",
@@ -174,7 +179,6 @@
     "MindGalaxy/Inbox/Docker.md",
     "MindGalaxy/Inbox/rust.md",
     "MindGalaxy/Inbox",
-    "Knowledge/Rust/🦀 Rust Variables.md",
     "MindGalaxy/Knowledge/Math/Algebra/📚 Number Types🌟.md",
     "MindGalaxy/Knowledge/CS/Devops/Introduction to Docker.md",
     "MindGalaxy/Knowledge/Rust/🦀 Rust Variables.md",
@@ -189,7 +193,6 @@
     "MindGalaxy/Templates",
     "MindGalaxy/README.md",
     "MindGalaxy/LICENSE",
-    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
     "Inbox/rust.md",
     "Templates/Daily.md",
     "Daily/Aug 30 23.md",
@@ -199,10 +202,8 @@
     "AI Language Learning Platform/Ideas.md",
     "Untitled.md",
     "Variables and Data Types.md",
-    "Daily/Oct 14 23.md",
     "Daily/Aug 07 23.md",
     "Daily/Aug 04 23.md",
-    "Daily/Aug 01 23.md",
     "Pasted image 20230621132207.png",
     "Untitled.canvas",
     "Images/Pasted image 20230416144426.png"

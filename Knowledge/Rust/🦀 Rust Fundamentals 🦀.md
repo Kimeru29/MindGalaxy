@@ -1,5 +1,11 @@
 # 🦀 Rust Fundamentals 🦀
 
+- **Tags**: #Rust #Programming #LowLevelProgramming
+- **Related**: [[🦀 Rust Variables]], [[Rust Functions]], [[Rust Data Types]]
+- **Audience**: Beginners to Intermediate Rust Developers
+
+---
+
 ## Overview
 
 Welcome to Rust Fundamentals! Rust is a systems programming language that focuses on performance, reliability, and productivity. Here, you'll find links to notes that will help you master the basics of Rust.

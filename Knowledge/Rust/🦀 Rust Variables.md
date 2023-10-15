@@ -1,4 +1,4 @@
-# 🦀 Rust Variables
+# 🦀 Rust Variables Basics
 
 - **Tags**: #Rust #Programming #Variables
 - **Related**: [[Rust Functions]], [[Rust Data Types]]
