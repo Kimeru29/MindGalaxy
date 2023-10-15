@@ -1,7 +1,7 @@
 # 🦀 Rust Variable Types
 
 - **Tags**: #Rust #Programming #VariableTypes
-- **Related**: [[Rust Variables]], [[Rust Functions]], [[Rust Data Types]]
+- **Related**: [[🦀 Rust Variables]], [[🦀 Rust Variable Shadowing]]
 - **Audience**: Beginners to Intermediate Rust Developers
 
 ---

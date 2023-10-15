@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Variables.md",
+                "file": "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 250.49999618530273
   },
   "right": {
     "id": "1412a4bec50c6ae0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Variables.md",
+                "file": "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Variables.md",
+                "file": "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Variables.md"
+                "file": "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md"
               }
             }
           },
@@ -167,9 +167,13 @@
   },
   "active": "5406acdd0b61c4af",
   "lastOpenFiles": [
-    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
-    "Knowledge/Rust/🦀 Rust Variable Types.md",
     "Knowledge/Rust/🦀 Rust Variables.md",
+    "Knowledge/Rust/🦀 Rust Variable Scope and Dropping.md",
+    "Knowledge/Rust/🦀 Rust Variable Shadowing.md",
+    "Knowledge/Rust/🦀 Rust Variable Types.md",
+    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
+    "Inbox/rust.md",
+    "Rust Data Types.md",
     "Rust Variables.md",
     "Daily/Oct 14 23.md",
     "MindGalaxy/Images/Pasted image 20230416144426.png",
@@ -193,7 +197,6 @@
     "MindGalaxy/Templates",
     "MindGalaxy/README.md",
     "MindGalaxy/LICENSE",
-    "Inbox/rust.md",
     "Templates/Daily.md",
     "Daily/Aug 30 23.md",
     "Inbox/First draft.md",
@@ -201,9 +204,6 @@
     "Untitled 1.md",
     "AI Language Learning Platform/Ideas.md",
     "Untitled.md",
-    "Variables and Data Types.md",
-    "Daily/Aug 07 23.md",
-    "Daily/Aug 04 23.md",
     "Pasted image 20230621132207.png",
     "Untitled.canvas",
     "Images/Pasted image 20230416144426.png"

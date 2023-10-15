@@ -1,7 +1,7 @@
 # 🦀 Rust Variables Basics
 
 - **Tags**: #Rust #Programming #Variables
-- **Related**: [[Rust Functions]], [[Rust Data Types]]
+- **Related**: [[🦀 Rust Variable Types]], [[🦀 Rust Variable Scope and Dropping]], [[🦀 Rust Variable Shadowing]]
 
 ---
 
@@ -67,7 +67,8 @@ let (bunnies: i32, carrots: i32) = (8, 50);`
 If you try to modify an immutable variable, the compiler will throw an error.
 
 ```rust
-let bunnies = 2; bunnies = 4; // ❌ Error`
+let bunnies = 2; 
+bunnies = 4; // ❌ Error`
 ```
 ---
 
@@ -75,7 +76,8 @@ let bunnies = 2; bunnies = 4; // ❌ Error`
 
 Use the `mut` keyword to declare a variable as mutable.
 ```rust
-let mut bunnies = 32; bunnies = 2; // ✅ No error`
+let mut bunnies = 32; 
+bunnies = 2; // ✅ No error`
 ```
 ---
 

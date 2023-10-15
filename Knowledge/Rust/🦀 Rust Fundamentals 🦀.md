@@ -1,7 +1,7 @@
 # 🦀 Rust Fundamentals 🦀
 
 - **Tags**: #Rust #Programming #LowLevelProgramming
-- **Related**: [[🦀 Rust Variables]], [[Rust Functions]], [[Rust Data Types]]
+- **Related**: [[🦀 Rust Variables]], [[Rust Functions]], [[🦀 Rust Variable Types]]
 - **Audience**: Beginners to Intermediate Rust Developers
 
 ---
