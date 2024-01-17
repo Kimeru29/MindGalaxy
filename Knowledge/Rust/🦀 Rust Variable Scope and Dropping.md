@@ -24,7 +24,7 @@ Variables in Rust are confined to their scope. A variable is accessible within i
 {
     let inside_var = "Hello, world!";
     {
-        println!("{}", inside_var); // ✅ Accessible here
+	    println!("{}", inside_var); // ✅ Accessible here
     }
     println!("{}", inside_var); // ✅ Also accessible here
 }

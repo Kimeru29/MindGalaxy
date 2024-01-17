@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Memory Safety.md",
-                "mode": "source",
+                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Memory Safety.md",
+                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Memory Safety.md",
+                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Rust/🦀 Rust Memory Safety.md"
+                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md"
               }
             }
           },
@@ -143,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,14 +169,25 @@
   },
   "active": "5406acdd0b61c4af",
   "lastOpenFiles": [
+    "Knowledge/WPF/🖼️ WPF Fundamentals.md",
+    "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
+    "Knowledge/WPF/Controls/Button/🆗 WPF Button Event Handling 🆗.md",
+    "Knowledge/WPF/Layout/🖼️ Layout Fundamentals 🖼️",
+    "Knowledge/WPF/Layout",
+    "Knowledge/WPF/Controls/Button",
+    "Knowledge/WPF/Controls/Button/🆗 Button Controls 🆗.md",
+    "Knowledge/WPF/Controls/Button/🆗 Button Class Overview 🆗.md",
     "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
+    "Knowledge/WPF/Controls",
+    "Inbox/WPF.md",
     "Knowledge/Rust/🦀 Rust Memory Safety.md",
+    "Knowledge/Rust/🦀 Rust Variable Shadowing.md",
+    "Knowledge/Rust/🦀 Rust Variable Scope and Dropping.md",
+    "Knowledge/WPF",
+    "Knowledge/Rust/🦀 Rust Variable Types.md",
+    "Knowledge/Rust/🦀 Rust Variables.md",
     "Inbox/rust.md",
     "Inbox/First draft.md",
-    "Knowledge/Rust/🦀 Rust Variables.md",
-    "Knowledge/Rust/🦀 Rust Variable Scope and Dropping.md",
-    "Knowledge/Rust/🦀 Rust Variable Shadowing.md",
-    "Knowledge/Rust/🦀 Rust Variable Types.md",
     "Rust Data Types.md",
     "Rust Variables.md",
     "Daily/Oct 14 23.md",
@@ -192,18 +205,7 @@
     "MindGalaxy/Knowledge/Math/Algebra",
     "MindGalaxy/Knowledge/CS/Devops",
     "MindGalaxy/Knowledge/Rust",
-    "MindGalaxy/Knowledge/Math",
-    "MindGalaxy/Knowledge/CS",
-    "MindGalaxy/Knowledge",
     "MindGalaxy/Templates/Daily.md",
-    "MindGalaxy/Templates",
-    "MindGalaxy/README.md",
-    "MindGalaxy/LICENSE",
-    "Templates/Daily.md",
-    "Daily/Aug 30 23.md",
-    "Daily/Sep 14 23.md",
-    "Untitled 1.md",
-    "AI Language Learning Platform/Ideas.md",
     "Pasted image 20230621132207.png",
     "Untitled.canvas",
     "Images/Pasted image 20230416144426.png"
