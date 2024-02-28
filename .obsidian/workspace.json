@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
-                "mode": "preview",
+                "file": "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
+                "file": "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
+                "file": "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md"
+                "file": "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md"
               }
             }
           },
@@ -169,8 +169,14 @@
   },
   "active": "5406acdd0b61c4af",
   "lastOpenFiles": [
-    "Knowledge/WPF/🖼️ WPF Fundamentals.md",
+    "Inbox/DataEngineering.md",
+    "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md",
+    "Kof/Asignación",
+    "Kof/Juntas/Ad-Hoc",
+    "Kof/Juntas",
+    "Kof",
     "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
+    "Knowledge/WPF/🖼️ WPF Fundamentals.md",
     "Knowledge/WPF/Controls/Button/🆗 WPF Button Event Handling 🆗.md",
     "Knowledge/WPF/Layout/🖼️ Layout Fundamentals 🖼️",
     "Knowledge/WPF/Layout",
@@ -197,15 +203,9 @@
     "MindGalaxy/Inbox/First draft.md",
     "MindGalaxy/Inbox/Docker.md",
     "MindGalaxy/Inbox/rust.md",
-    "MindGalaxy/Inbox",
     "MindGalaxy/Knowledge/Math/Algebra/📚 Number Types🌟.md",
     "MindGalaxy/Knowledge/CS/Devops/Introduction to Docker.md",
     "MindGalaxy/Knowledge/Rust/🦀 Rust Variables.md",
-    "MindGalaxy/Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
-    "MindGalaxy/Knowledge/Math/Algebra",
-    "MindGalaxy/Knowledge/CS/Devops",
-    "MindGalaxy/Knowledge/Rust",
-    "MindGalaxy/Templates/Daily.md",
     "Pasted image 20230621132207.png",
     "Untitled.canvas",
     "Images/Pasted image 20230416144426.png"
