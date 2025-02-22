@@ -1,0 +1,46 @@
+00:00:00->00:00:03:  Lo sabía, lo sabía, lo sabía!
+00:00:03->00:00:12:  Siempre supe que alterarías la libreta, Nir.
+00:00:12->00:00:15:  Te he derrotado por completo.
+00:00:15->00:00:21:  La libreta que modificaste no era más que una réplica que ordené a Mikami preparar,
+00:00:21->00:00:25:  pero en la que Mikami acaba de escribir sus nombres es la libreta real,
+00:00:25->00:00:28:  que estuvo oculta hasta ahora.
+00:00:28->00:00:30:  ¡Jajaja!
+00:00:30->00:00:39:  Ordené a Mikami crear una libreta falsa que él usaría
+00:00:39->00:00:42:  y enviar a Takada varias páginas de la auténtica,
+00:00:42->00:00:46:  de modo que era Takada, no Mikami, quien ejecutaba los asesinatos.
+00:00:46->00:00:50:  En cuanto a Mikami, le pedí que escribiera nombres en lugares públicos
+00:00:50->00:00:54:  usando la libreta falsa, para que lo notara quien estuviera siguiéndolo.
+00:00:55->00:00:58:  Pero Takada era la responsable de las muertes,
+00:00:58->00:01:01:  Mikami le enviaba los rostros y nombres por teléfono celular.
+00:01:01->00:01:06:  Con esa farsa logré que la G.E.K. creyera que la libreta que usaba Mikami era la real.
+00:01:06->00:01:09:  La rutina de Mikami es tan metódica que parece obsesiva.
+00:01:09->00:01:14:  Llena exactamente una página con nombres todos los días.
+00:01:14->00:01:19:  Y Nir, notaste ese hábito suyo y creíste poder aprovecharlo para alterar la libreta.
+00:01:19->00:01:23:  Las contaste para saber qué página usaría el día de este encuentro.
+00:01:24->00:01:27:  Y sustituiste todas las páginas desde esa fecha en adelante.
+00:01:27->00:01:30:  Confiaba que podrías impedir que alguien más muriera.
+00:01:30->00:01:32:  Ese era tu plan, maestro.
+00:01:32->00:01:36:  Por eso no podías cambiar la fecha en que nos reuniríamos.
+00:01:36->00:01:38:  Pero yo iba un paso adelante de ti.
+00:01:38->00:01:41:  Nir siempre supe que intentaría romper la libreta.
+00:01:41->00:01:46:  Por eso pedía a Mikami que diariamente revisara la libreta buscando indicios de alteración.
+00:01:46->00:01:50:  Lo he confirmado.
+00:01:50->00:01:53:  Supe que había ganado apenas recibí ese mensaje.
+00:01:53->00:01:59:  Mikami trajo hoy una libreta distinta, la auténtica, que estuvo oculta hasta ahora.
+00:01:59->00:02:08:  Y sabes, Kenir, tuviste una oportunidad de ganar, pero la dejaste ir.
+00:02:08->00:02:10:  Fuiste demasiado ingenuo.
+00:02:10->00:02:13:  No puedes compararte con Nelle.
+00:02:14->00:02:21:  Él habría considerado la posibilidad de una libreta falsa desde el principio.
+00:02:21->00:02:23:  Y la habría puesto a prueba.
+00:02:23->00:02:26:  Tuviste una oportunidad y la desperdiciaste.
+00:02:26->00:02:29:  Debo decir que me decepcionas profundamente.
+00:02:29->00:02:32:  Esta victoria no es disfrutable.
+00:02:32->00:02:35:  Te esforzaste demasiado en ganar honorablemente.
+00:02:35->00:02:37:  Ni hablar.
+00:02:37->00:02:39:  Morirán todos aquí hoy.
+00:02:39->00:02:41:  Gracias a ti.
+00:02:41->00:02:43:  En cuanto a mí, yo.
+00:02:43->00:02:44:  Kira.
+00:02:44->00:02:47:  Obtendré una victoria perfecta.
+00:02:47->00:02:47.5000000:  ¡Tá!
+00:02:47.5000000->00:02:51.3200000:  [Música]
