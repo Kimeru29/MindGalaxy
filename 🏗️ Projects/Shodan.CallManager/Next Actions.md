@@ -1,0 +1,4 @@
+- [ ] Test transcriber.
+- [ ] Test Chat GPT Integration.
+- [ ] Test complete flow.
+- [ ] Refine the prompts once everything is working.

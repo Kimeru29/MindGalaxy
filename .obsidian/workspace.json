@@ -4,19 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6eb1b78ad109fb",
+        "id": "e84f4a454ebe7c6c",
         "type": "tabs",
+        "dimension": 48.83040935672515,
         "children": [
           {
-            "id": "d161fb46cc09d43e",
+            "id": "e6fc2ddd004c04c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IncrementalLearning/Requirements.md",
+                "file": "🏗️ Projects/Shodan.CallManager/Next Actions.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Next Actions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e357855557ad1fc",
+        "type": "tabs",
+        "dimension": 51.16959064327485,
+        "children": [
+          {
+            "id": "183e97ba0bc48f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Resources/©️ CSharp/Dependency injection guidelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dependency injection guidelines"
             }
           }
         ]
@@ -38,8 +62,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +75,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:di tag:#orange",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,14 +101,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.49999618530273
+    "width": 317.5
   },
   "right": {
     "id": "1412a4bec50c6ae0",
@@ -93,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IncrementalLearning/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -110,10 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IncrementalLearning/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -124,7 +159,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,9 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IncrementalLearning/Requirements.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -146,7 +183,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -159,55 +198,55 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "d161fb46cc09d43e",
+  "active": "e6fc2ddd004c04c8",
   "lastOpenFiles": [
-    "IncrementalLearning/Requirements.md",
-    "IncrementalLearning",
-    "Inbox/Docker/Basics.md",
-    "Inbox/Japanese/Hiragana.md",
-    "Knowledge/Web Frontend/HTML/🏗️ Basic Structure of an HTML Document.md",
-    "Inbox/Japanese",
-    "Knowledge/Web Frontend/HTML/🏗️ Lists in HTML.md",
-    "Inbox/Docker",
-    "Knowledge/HTML.md",
-    "Knowledge/Docker",
-    "Knowledge/Web Frontend/HTML/🏗️ Text Elements in HTML.md",
-    "Knowledge/Rust/🦀 Rust Memory Safety.md",
-    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
-    "Knowledge/Rust/🦀 Rust Variable Types.md",
-    "Knowledge/Rust/🦀 Rust Variables.md",
-    "Kof/Juntas/Ad-Hoc/02-20 - Onboareding.md",
-    "Knowledge/Rust/🦀 Rust Variable Scope and Dropping.md",
-    "Inbox/WPF.md",
-    "Inbox/Types of numbers.md",
-    "Inbox/rust.md",
-    "Inbox/First draft.md",
-    "Knowledge/Web Frontend",
-    "Knowledge/Web Frontend/HTML",
-    "Youtube/Píldoras/El pasar del tiempo.md",
+    "📚 Resources/©️ CSharp/Tutorial Use dependency injection in .NET.md",
+    "📚 Resources/©️ CSharp/Dependency injection guidelines.md",
+    "📚 Resources/©️ CSharp/Dependency Injection overview.md",
+    "📚 Resources/©️ CSharp/Understanding dependency injection basics in .NET.md",
+    "Clippings/Worker Services - .NET.md",
+    "🏗️ Projects/Shodan.CallManager/Next Actions.md",
+    "📎 Clippings/Worker Services - .NET.md",
+    "Clippings",
+    "📚 Resources/©️ CSharp",
     "README.md",
-    "Youtube/Untitled.md",
-    "Youtube/Píldoras",
-    "Youtube",
+    "Clippings/Untitled 1.md",
+    "📎 Clippings",
+    "🎭 Areas/🍊 Orange Server",
+    "📬 Inbox/Orange.md",
+    "🏗️ Projects/Shodan.CallManager",
+    "Timestamps/2025/02-February/2025-02-23-Sunday.md",
+    "🗑️ Archives",
+    "📚 Resources",
+    "🎭 Areas",
+    "🏗️ Projects",
+    "inbox/Untitled.md",
+    "yetsts.md",
     "Inbox/DataEngineering.md",
+    "Inbox/Japanese/Hiragana.md",
+    "Daily/Feb 22 25.md",
     "Templates/Daily.md",
-    "Kof/Asignación",
-    "Kof/Juntas/Ad-Hoc",
-    "Knowledge/WPF/Layout/🖼️ WPF Layout Fundamentals 🖼️.md",
-    "Knowledge/WPF/🖼️ WPF Fundamentals.md",
-    "Knowledge/WPF/Controls/Button/🆗 WPF Button Event Handling 🆗.md",
-    "Knowledge/WPF/Controls/Button/🆗 Button Controls 🆗.md",
+    "Timestamps/2025/02-February",
+    "Knowledge/Rust/🦀 Rust Fundamentals 🦀.md",
+    "Inbox/🐋Docker/Basics.md",
+    "Images/Pasted image 20230416144426.png",
+    "IncrementalLearning/Requirements.md",
+    "Meetings/Processed/AdHoc/ADHOC-24-DEC-22-27.summary.md",
+    "Meetings/Processed/Dailies/DAILY-04-FEB.summary.md",
+    "Knowledge/Rust/🦀 Rust Memory Safety.md",
+    "Meetings/Processed/AdHoc/ADHOC-DEC-24-22-27.summary.md",
+    "Meetings/Processed/Untitled.md",
+    "Knowledge/Web Frontend/HTML/🏗️ Basic Structure of an HTML Document.md",
     "MindGalaxy/Images/Pasted image 20230416144426.png",
     "Pasted image 20230621132207.png",
-    "Untitled.canvas",
-    "Images/Pasted image 20230416144426.png"
+    "Untitled.canvas"
   ]
 }

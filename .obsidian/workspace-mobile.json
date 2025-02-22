@@ -157,9 +157,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "996d85425b8eb857",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "🤝 Meetings/Processed/AdHoc/ADHOC-24-DEC-22-27.wav.txt",
+    "🤝 Meetings/Processed/AdHoc/ADHOC-DEC-24-22-27.wav.txt",
+    "🤝 Meetings/Processed/AdHoc",
+    "🤝 Meetings/Processed",
+    "🤝 Meetings",
+    "📎 Clippings/Worker Services - .NET.md",
+    "📎 Clippings",
+    "🏗️ Projects/Shodan.CallManager/Next Actions.md",
+    "🏗️ Projects/Shodan.CallManager",
+    "🏗️ Projects",
+    "📬 Inbox/Orange.md",
+    "📬 Inbox",
+    "📚 Resources/©️ CSharp/Tutorial Use dependency injection in .NET.md",
+    "📚 Resources/©️ CSharp/Dependency Injection overview.md",
+    "📚 Resources/©️ CSharp/Dependency injection guidelines.md",
+    "📚 Resources/©️ CSharp/Understanding dependency injection basics in .NET.md",
+    "📚 Resources/©️ CSharp",
+    "📚 Resources"
+  ]
 }
